@@ -16,3 +16,15 @@ Continuation of Assignemnt 1, evaluated on Balanced MNIST dataset involving:
 * Performance comparison before best performing DNN and CNN
 
 **Assignment 3**: 
+Intermin report for group project of own choice (i.e. study and experiments on Deep-Fakes GANs):
+* Overview of GANs, Image-to-Image translation and face swapping techniques
+* Dataset generation: Trump-Clinton, Author-Author datasets
+* Comparison of different training set-ups on final results
+
+**Assignment 4**: 
+Continuation of Assignment 3 (i.e. study and experiments on Deep-Fakes GANs). Experiments involving:
+* Batch normalisation
+* PixelShuffle layer
+* XGAN
+* Frequent descriminator updates
+* Different input sizes
